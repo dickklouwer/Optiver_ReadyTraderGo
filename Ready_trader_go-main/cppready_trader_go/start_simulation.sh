@@ -1,0 +1,2 @@
+ #!/bin/bash
+ python3 rtg.py run VWAP_Normal VWAP_Aggressive_delay_256 VWAP_Aggressive_NO_log VWAP_Aggressive_NO_time VWAP_Aggressive_Averages VWAP_Aggressive_Averages_POS_2 VWAP_Aggressive_Averages_POS_5

@@ -1,4 +1,4 @@
-<h1>Optiver's ReadyTraderGo Hackaton Competition. </h1>
+<h1>Optiver's ReadyTraderGo Hackaton. </h1>
 
 <b>About Ready Trader Go</b>
 
